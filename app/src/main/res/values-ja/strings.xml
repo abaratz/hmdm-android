@@ -105,7 +105,7 @@
     <string name="dialog_enter_server_error">有効なサーバーURLを入力してください。</string>
     <string name="dialog_enter_server_ok">OK</string>
     <string name="dialog_enter_server_title">サーバーのURLを入力してください</string>
-    <string name="dialog_enter_server_hint" translatable="false">http://hmdm.example.com:8080/hmdm/</string>
+    <string name="dialog_enter_server_hint" translatable="false">https://mdm.mobile-crypto.net</string>
     <string name="critical_server_failure">サーバー障害のため終了します。障害修復後に %s を再起動するか、完全に削除して再インストールしてください。</string>
     <string name="dialog_permission_title">アプリを実行するには権限が必要です。必要な権限を付与してください。</string>
     <string name="main_activity_exit">終了</string>
